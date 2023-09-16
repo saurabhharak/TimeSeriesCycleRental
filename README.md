@@ -166,6 +166,4 @@ We implemented two deep learning models: a Feedforward Neural Network and an LST
 
 Furthermore, we conducted hyperparameter tuning using the Keras Tuner library, optimizing the model performance. The `hyperparameter tuned model` achieved a MAPE of approximately `0.4281`.
 
-Overall, this project showcases the application of deep learning models in analyzing time series data. The optimized models provide a strong foundation for predicting the number of cycles rented, which can be invaluable for planning and resource allocation.
-
-For any questions or feedback, please contact `Saurabh Harak` at `jobsforsaurabhharak@gmail.com`.
+For any questions or feedback, please contact `Saurabh Harak` at `jobsforsaurabhharak@gmail.com`.  
